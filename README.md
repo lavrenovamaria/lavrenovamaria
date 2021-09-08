@@ -1,5 +1,6 @@
-
-<img align="center" src="./assets/giphy_l.gif" width="400" height="200" />
+<p align="center">
+	<img  src="./assets/giphy_l.gif" width="400" height="200" />
+</p>
 
 <!--
 **lavrenovamaria/lavrenovamaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
